@@ -1,0 +1,292 @@
+{
+  "slug": "beanritual",
+  "projectName": "beanritual",
+  "baseUrl": "https://rmulkey.github.io/beanritual",
+  "brand": "BeanRitual",
+  "category": "Home Coffee Bar Accessories",
+  "eyebrow": "Coffee bar edit",
+  "title": "Best Home Coffee Bar Accessories For Better Morning Rituals",
+  "description": "BeanRitual curates pour-over gear, coffee scales, frothing tools, knock boxes, capsule organizers, and counter-friendly coffee accessories.",
+  "h1": "Coffee bar tools for mornings that feel less improvised.",
+  "dek": "A compact edit for the home coffee corner: scales, organizers, pour-over tools, frothing pitchers, and the accessories that keep the counter calm.",
+  "guideSlug": "home-coffee-bar-accessories-guide",
+  "guideTitle": "Home Coffee Bar Accessories Guide",
+  "guideDescription": "Compare coffee scales, pour-over tools, milk frothing pitchers, knock boxes, organizers, and counter accessories before buying.",
+  "queries": [
+    "home coffee bar accessories",
+    "coffee scale pour over",
+    "espresso knock box",
+    "coffee pod organizer",
+    "milk frothing pitcher"
+  ],
+  "palette": [
+    "#f3eee7",
+    "#191512",
+    "#9b6a4b",
+    "#4b3124",
+    "#dfc8b5"
+  ],
+  "icon": "M24 28h22v12c0 8-5 14-11 14S24 48 24 40V28Zm22 3h5c3 0 5 2 5 5s-2 5-5 5h-5M28 20h16M30 14h12",
+  "longTailPages": [
+    {
+      "slug": "best-coffee-scale-for-pour-over",
+      "title": "Best Coffee Scale For Pour Over",
+      "intent": "measured pour-over brewing",
+      "angle": "scales to compare when timing, grams, footprint, and counter storage matter more than another gadget on the bar",
+      "productHints": [
+        "scale",
+        "timer",
+        "pour",
+        "coffee"
+      ]
+    },
+    {
+      "slug": "best-home-coffee-bar-organizer",
+      "title": "Best Home Coffee Bar Organizer",
+      "intent": "countertop coffee storage",
+      "angle": "organizers that keep pods, filters, stirrers, and tools from spreading across the kitchen",
+      "productHints": [
+        "organizer",
+        "storage",
+        "pod",
+        "drawer"
+      ]
+    },
+    {
+      "slug": "best-espresso-knock-box-for-home",
+      "title": "Best Espresso Knock Box For Home",
+      "intent": "espresso cleanup",
+      "angle": "knock boxes sized for home counters, small sinks, and people who do not want pucks sitting in the portafilter",
+      "productHints": [
+        "knock",
+        "box",
+        "espresso",
+        "puck"
+      ]
+    },
+    {
+      "slug": "best-milk-frothing-pitcher",
+      "title": "Best Milk Frothing Pitcher",
+      "intent": "milk texture and pouring",
+      "angle": "pitchers to compare for capacity, spout shape, markings, and daily cleanup",
+      "productHints": [
+        "frothing",
+        "pitcher",
+        "milk",
+        "latte"
+      ]
+    },
+    {
+      "slug": "best-pour-over-coffee-accessories",
+      "title": "Best Pour Over Coffee Accessories",
+      "intent": "manual brewing setup",
+      "angle": "tools that make a pour-over station easier to repeat without buying an entire new machine",
+      "productHints": [
+        "pour",
+        "dripper",
+        "filter",
+        "scale",
+        "kettle"
+      ]
+    },
+    {
+      "slug": "best-coffee-station-gifts",
+      "title": "Best Coffee Station Gifts",
+      "intent": "giftable coffee accessories",
+      "angle": "small upgrades that feel useful for someone who already has a brewer but not a settled coffee corner",
+      "productHints": [
+        "gift",
+        "set",
+        "organizer",
+        "coffee"
+      ]
+    }
+  ],
+  "affiliateTag": "deno-sites-20",
+  "lastUpdated": "2026-06-26",
+  "productCount": 24,
+  "urls": [
+    "https://rmulkey.github.io/beanritual/",
+    "https://rmulkey.github.io/beanritual/top-7/",
+    "https://rmulkey.github.io/beanritual/guides/home-coffee-bar-accessories-guide/",
+    "https://rmulkey.github.io/beanritual/best/best-coffee-scale-for-pour-over/",
+    "https://rmulkey.github.io/beanritual/best/best-home-coffee-bar-organizer/",
+    "https://rmulkey.github.io/beanritual/best/best-espresso-knock-box-for-home/",
+    "https://rmulkey.github.io/beanritual/best/best-milk-frothing-pitcher/",
+    "https://rmulkey.github.io/beanritual/best/best-pour-over-coffee-accessories/",
+    "https://rmulkey.github.io/beanritual/best/best-coffee-station-gifts/",
+    "https://rmulkey.github.io/beanritual/affiliate-disclosure/",
+    "https://rmulkey.github.io/beanritual/editorial-policy/",
+    "https://rmulkey.github.io/beanritual/contact/"
+  ],
+  "products": [
+    {
+      "asin": "B091CHRKVH",
+      "title": "4 PCS 6.7 Inches Coffee Spoons, Stirring Spoons, Tea Spoons Long Handle, Teaspoons, Gold Spoons, Ice Tea Spoons, Long Spoons for...",
+      "image": "https://m.media-amazon.com/images/I/51Ev1-Oe6cS._AC_SL1500_.jpg",
+      "category": "Home Coffee Bar Accessories",
+      "url": "https://www.amazon.com/dp/B091CHRKVH?tag=deno-sites-20"
+    },
+    {
+      "asin": "B07D6TZDTX",
+      "title": "4 Pcs Coffee Syrup Pump Dispenser - Works as Skinny and Torani Syrup Pump - Fits Various 25.4 oz Bottles, Precise Dispensing 0.3o...",
+      "image": "https://m.media-amazon.com/images/I/61D9Zmq6NWL._AC_SL1500_.jpg",
+      "category": "Home Coffee Bar Accessories",
+      "url": "https://www.amazon.com/dp/B07D6TZDTX?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0BZ4FHFV4",
+      "title": "16.9 oz (500 ml) Coffee Syrup Dispenser Set- 4 Glass Bottles with Gold Pumper and Syrup Labels - Precise Dispensing and Stylish A...",
+      "image": "https://m.media-amazon.com/images/I/71lExg7f-NL._AC_SL1500_.jpg",
+      "category": "Starter Kit",
+      "url": "https://www.amazon.com/dp/B0BZ4FHFV4?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0CRHP9NBK",
+      "title": "Qipecedm Espresso Cups Set of 2, 4 OZ Double Spouts Cups, Shot Glasses, Milk Cup with Handle, Clear Glass, Espresso Accessories f...",
+      "image": "https://m.media-amazon.com/images/I/6110A6FKEhL._AC_SL1500_.jpg",
+      "category": "Starter Kit",
+      "url": "https://www.amazon.com/dp/B0CRHP9NBK?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0CL73D44M",
+      "title": "WISELIFE Coffee Mat Super Absorbent Dish Drying Mat Coffee Bar Accessories Match with Machine Large Drying Mats for Kitchen Count...",
+      "image": "https://m.media-amazon.com/images/I/71oOeUMQIcL._AC_SL1500_.jpg",
+      "category": "Starter Kit",
+      "url": "https://www.amazon.com/dp/B0CL73D44M?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0CWH57Q9F",
+      "title": "Veken Coffee Canister with Window,Airtight Stainless Steel Pantry Container,Kitchen Food Storage Organizers for Beans,Ground,Espr...",
+      "image": "https://m.media-amazon.com/images/I/71-wSWawcGL._AC_SL1500_.jpg",
+      "category": "Organization",
+      "url": "https://www.amazon.com/dp/B0CWH57Q9F?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0CHMCTK38",
+      "title": "ANBOXIT Countertop Coffee Station Organizer, 2 Tier Wooden Shelf for Coffee Bar Accessories, Condiment Storage Caddy for Kitchen,...",
+      "image": "https://m.media-amazon.com/images/I/71CT4aiVuRL._AC_SL1500_.jpg",
+      "category": "Organization",
+      "url": "https://www.amazon.com/dp/B0CHMCTK38?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0C9HDB29F",
+      "title": "10 Pcs Gold Coffee Syrup Pump, Compatible with 25.4 Oz/750ml Bottles, Syrup Dispenser Pumps Great for Home & Coffee Bar Drinking...",
+      "image": "https://m.media-amazon.com/images/I/61Uvyj5sdLL._AC_SL1500_.jpg",
+      "category": "Home Coffee Bar Accessories",
+      "url": "https://www.amazon.com/dp/B0C9HDB29F?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0FV2CHLV8",
+      "title": "Iced Coffee Cups with Lids: Coffee Bar Accessories - Ribbed Glass Tumbler with Straw and Lid 4Pcs - 20oz Leak Proof Tumbler - Reu...",
+      "image": "https://m.media-amazon.com/images/I/718BOeeZ2vL._AC_SL1500_.jpg",
+      "category": "Home Coffee Bar Accessories",
+      "url": "https://www.amazon.com/dp/B0FV2CHLV8?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0D5B9D4JS",
+      "title": "CooRug Absorbent Coffee Mat, Fashion Dish Drying Mat for Kitchen Counter Coffee Bar Accessories Espresso Machine Dish Rack 12\" x...",
+      "image": "https://m.media-amazon.com/images/I/710qPJKU4XL._AC_SL1500_.jpg",
+      "category": "Display",
+      "url": "https://www.amazon.com/dp/B0D5B9D4JS?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0CL37PFJ8",
+      "title": "MHDCLY Coffee Bar Accessories, Coffee Syrup Dispenser - 4pack,16.9oz Syrup Dispenser with Labels,Syrup Pump Dispenser for Coffee...",
+      "image": "https://m.media-amazon.com/images/I/71nFdwU1+qL._AC_SL1500_.jpg",
+      "category": "Home Coffee Bar Accessories",
+      "url": "https://www.amazon.com/dp/B0CL37PFJ8?tag=deno-sites-20"
+    },
+    {
+      "asin": "B00B4M83MU",
+      "title": "Coffee Stirrers Sticks, Disposable Plastic Drink Stirrer Sticks, 1000 Stirrers, Use It As A Coffee Straws Or A Cocktail Mixers (B...",
+      "image": "https://m.media-amazon.com/images/I/91gcC6bQ1PL._AC_SL1500_.jpg",
+      "category": "Home Coffee Bar Accessories",
+      "url": "https://www.amazon.com/dp/B00B4M83MU?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0D6H2SS92",
+      "title": "Silicone Coffee Mat, 24&#x27;&#x27;x16&#x27;&#x27; Bar Mat with Detachable Dish Drying Mat - Fits Under Coffee Maker & Dish Rack",
+      "image": "https://m.media-amazon.com/images/I/71jCcTwB7ZL._AC_SL1500_.jpg",
+      "category": "Display",
+      "url": "https://www.amazon.com/dp/B0D6H2SS92?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0D8TFHH3F",
+      "title": "KLM Liquor Bottle Display Shelf, Coffee Syrup Rack Organizer, 3 Step Countertop Liquor Wine Rack, mini bar,liquor cabinet, Home R...",
+      "image": "https://m.media-amazon.com/images/I/81GZtaBv75L._AC_SL1500_.jpg",
+      "category": "Organization",
+      "url": "https://www.amazon.com/dp/B0D8TFHH3F?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0F1KCBNQD",
+      "title": "BDBDYEAY Coffee Bar Accessories, 2-Tier Coffee Bar Organizer with 4 Coffee Cup Holder Hooks, Mul-tifunctional Wooden Beaded Coffe...",
+      "image": "https://m.media-amazon.com/images/I/71mISk3zycL._AC_SL1500_.jpg",
+      "category": "Organization",
+      "url": "https://www.amazon.com/dp/B0F1KCBNQD?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0169ZDUSI",
+      "title": "Mind Reader Condiment Station, 13 Inch Countertop Coffee Bar Organizer with 6 Compartments, Storage Caddy for Cups, Lids and Pack...",
+      "image": "https://m.media-amazon.com/images/I/71jeI0Cq4LL._AC_SL1500_.jpg",
+      "category": "Organization",
+      "url": "https://www.amazon.com/dp/B0169ZDUSI?tag=deno-sites-20"
+    },
+    {
+      "asin": "B09WDXWNS6",
+      "title": "XieNie Bar Mat, 6\" x 12\" Black Small Coffee Mat for Home Bar Kitchen Countertop, Non-Slip Service Spill Mat for Cocktail Bartende...",
+      "image": "https://m.media-amazon.com/images/I/71V1TtfFAQL._AC_SL1500_.jpg",
+      "category": "Starter Kit",
+      "url": "https://www.amazon.com/dp/B09WDXWNS6?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0CJM76VFY",
+      "title": "Amrules Milk Frothing Pitcher, 12oz Milk Frother Cup with Clear Scale, 304 Stainless Steel Cappuccino Espresso Machine Accessorie...",
+      "image": "https://m.media-amazon.com/images/I/61OZRRKTdcL._AC_SL1500_.jpg",
+      "category": "Home Coffee Bar Accessories",
+      "url": "https://www.amazon.com/dp/B0CJM76VFY?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0DZ6TB726",
+      "title": "Veken Coffee Canister, 39OZ Large, Gifts For Women,Airtight Stainless Steel Food Storage Container for 2.2lbs Coffee Beans,Ground...",
+      "image": "https://m.media-amazon.com/images/I/71B5aC2pi4L._AC_SL1500_.jpg",
+      "category": "Organization",
+      "url": "https://www.amazon.com/dp/B0DZ6TB726?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0D7HRDLSW",
+      "title": "Dealusy 100 Pack - 16 oz Clear Plastic Cups with Lids, Sturdy & Food Safe Iced Coffee Cups with lids, Disposable Plastic Smoothie...",
+      "image": "https://m.media-amazon.com/images/I/71Gcq1sDM5L._AC_SL1500_.jpg",
+      "category": "Home Coffee Bar Accessories",
+      "url": "https://www.amazon.com/dp/B0D7HRDLSW?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0DQ76G5W9",
+      "title": "Charmount 100 Sets- 20 oz Clear Plastic Cups with Lids and Straws, Disposable To Go Cups for Cold Drinks, Coffee Bar Accessories,...",
+      "image": "https://m.media-amazon.com/images/I/71SEa1WAceL._AC_SL1500_.jpg",
+      "category": "Starter Kit",
+      "url": "https://www.amazon.com/dp/B0DQ76G5W9?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0CVWZQJRH",
+      "title": "Ginkgo 100 Pack 12 oz Leak-Proof Coffee Cups with Lids and Sleeves Disposable To Go Hot Travel Paper Cups, Hot Chocolate, Cocoa,...",
+      "image": "https://m.media-amazon.com/images/I/71IbA5c2KJL._AC_SL1500_.jpg",
+      "category": "Home Coffee Bar Accessories",
+      "url": "https://www.amazon.com/dp/B0CVWZQJRH?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0C64FVCVF",
+      "title": "Findosom 12\"x 20\" Dish Drying Mat, Super Absorbent & Cuttable Coffee Mat, Hide Stain Bar Mat for Kitchen Counter, Coffee Bar Acce...",
+      "image": "https://m.media-amazon.com/images/I/61kr7y8s03L._AC_SL1500_.jpg",
+      "category": "Starter Kit",
+      "url": "https://www.amazon.com/dp/B0C64FVCVF?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0B2PJGT2R",
+      "title": "Mini Coffee Spoon Holder, Small Ceramic Spoon Rest for Coffee Stirrers, Teaspoon, Bar Spoon, Coffee Bar Accessories (Ture white+G...",
+      "image": "https://m.media-amazon.com/images/I/41srk842j9L._AC_SL1500_.jpg",
+      "category": "Organization",
+      "url": "https://www.amazon.com/dp/B0B2PJGT2R?tag=deno-sites-20"
+    }
+  ]
+}
